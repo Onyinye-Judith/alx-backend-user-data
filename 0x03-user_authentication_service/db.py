@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-"""
-DB class
-"""
+
 def __init__(self) -> None:
     """
     Initialize a new DB instance
