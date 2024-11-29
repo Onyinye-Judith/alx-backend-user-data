@@ -1,3 +1,4 @@
-This module defines functions and classes which implement a flexible event logging system for applications and libraries.
-
-The key benefit of having the logging API provided by a standard library module is that all Python modules can participate in logging, so your application log can include your own messages integrated with messages from third-party modules.
+PII is mainly applied in the US but lacks a single legal definition, while personal data has a legal meaning defined by the GDPR in the EU. Both types of data cover information that could directly or indirectly reveal an individual’s identity.
+PII can be divided into a few categories, the most common of which are linked (e.g. name, SSN) and linkable (e.g. job position, non-specific age) information. Other types of PII include sensitive and non-sensitive PII.
+Personal data includes any information relating to an identified or identifiable person, including online identifiers like cookies and IP addresses.
+Companies must take measures to protect PII and personal data. Legal requirements are getting stricter, requiring organizations to closely examine the data they collect and stay compliant with changing regulations.
